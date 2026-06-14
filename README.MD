@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=200&section=header&text=Usman%20Hassan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20Engineer&descAlignY=56&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=200&section=header&text=Usman%20Ali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20Engineer&descAlignY=56&descAlign=62" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=2EA8B5&center=true&vCenter=true&random=false&width=640&lines=Full-Stack+Engineer+%7C+Angular+%2F+React+%2B+Node.js;AI%2FML%3A+TensorFlow+%C2%B7+scikit-learn+%C2%B7+NLP;Shopify+Developer+%7C+Custom+Liquid+%26+Themes;Building+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
