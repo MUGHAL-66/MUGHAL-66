@@ -81,17 +81,6 @@ I'm a **Software Engineer** building full-stack web apps, AI/ML tools, and Shopi
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MUGHAL-66&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
