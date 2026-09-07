@@ -69,8 +69,6 @@ I'm a **Software Engineer** building full-stack web apps, AI/ML tools, and Shopi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGHAL-66&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <div align="center">
@@ -80,8 +78,6 @@ I'm a **Software Engineer** building full-stack web apps, AI/ML tools, and Shopi
 </div>
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUGHAL-66&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
