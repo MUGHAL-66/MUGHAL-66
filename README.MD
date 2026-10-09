@@ -55,6 +55,6 @@ Backend architecture / API development / AI-powered applications / Machine learn
 
 **PAKISTAN · OPEN TO COLLABORATION**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/usmanali66/) · [Explore my portfolio](https://mughal-66.github.io/PORTFOLIO/)
+[Connect on LinkedIn](https://www.linkedin.com/in/usmanali66/) · [Explore my portfolio](https://usman-ali-portfolio-opal.vercel.app/)
 
 </div>
