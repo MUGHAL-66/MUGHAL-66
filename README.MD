@@ -1,105 +1,85 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=200&section=header&text=Usman%20Ali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Shopify%20Expert%20%7C%20AI%20Engineer&descAlignY=56&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:164E63,100:0891B2&height=200&section=header&text=Usman%20Ali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=60&descColor=cbd5e1" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=2EA8B5&center=true&vCenter=true&random=false&width=640&lines=Full-Stack+Engineer+%7C+Angular+%2F+React+%2B+Node.js;AI%2FML%3A+TensorFlow+%C2%B7+scikit-learn+%C2%B7+NLP;Shopify+Developer+%7C+Custom+Liquid+%26+Themes;Building+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=0891B2\&center=true\&vCenter=true\&width=650\&lines=Software+Engineer+from+Pakistan;Building+with+.NET+%26+MERN+Stack;Exploring+AI%2FML+with+Python;Shopify+Development+%26+E-Commerce;Turning+Ideas+Into+Practical+Solutions)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 👨‍💻 About Me
-
-I'm a **Software Engineer** building full-stack web apps, AI/ML tools, and Shopify storefronts — focused on clean UI, real-time data, and production-ready code.
-
-- ⚡ **Full-Stack:** Angular, React, Node.js, Express, MongoDB, Firebase
-- 🧠 **AI/ML:** TensorFlow, scikit-learn, NLP
-- 🛍️ **Shopify Developer** — custom Liquid, themes, storefront builds
-- 🏢 Building under **IKHWAN.DEV**
-- 🌍 Based in Pakistan
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Commerce & Tools**
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:--|:--|:--|
-| [**AquaAid**](https://github.com/MUGHAL-66/AquaAid) | Map-centric flood relief coordination app — geo-located requests for food, shelter & medical aid, built for citizens, volunteers, and NGOs | React, TypeScript, Maps API |
-| [**Serenique – Digital Wellness Tool**](https://github.com/MUGHAL-66/Serenique-Digital-Wellness-Tool) | Wellness platform to help users build focus, reduce stress, and form healthier daily habits | React.js, TypeScript |
-| [**Packtrack – Travel Planner**](https://github.com/MUGHAL-66/Packtrack-Travel-Planner) | Frontend for a premium travel-planning platform — trip itineraries, packing lists, and trip management UI | React, TypeScript |
-| [**SkySphere – Weather Forecast**](https://github.com/MUGHAL-66/SkySphere-Weather-Forecast) | Real-time global weather forecasts with a responsive, accurate dashboard | React, Vite, TypeScript |
-| [**Luxury Homes**](https://github.com/MUGHAL-66/Luxury-Homes) | Real estate frontend showcasing property listings with elegant, responsive layouts | React, HTML, CSS |
-| [**DailySpark**](https://github.com/MUGHAL-66/DailySpark) | Motivational quote generator with on-demand quote refresh | HTML, CSS, JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MUGHAL-66&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-</div>
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mughal--66.github.io-2EA8B5?style=for-the-badge&logo=vercel&logoColor=white)](https://mughal-66.github.io/PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-usmanali66-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanali66/)
-[![Instagram](https://img.shields.io/badge/Instagram-@ikhwan.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikhwan.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square\&logo=vercel\&logoColor=white)](https://mughal-66.github.io/PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/usmanali66/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/ikhwan.dev/)
 
 </div>
 
 ---
 
+## About Me
+
+Hi, I'm **Usman Ali**, a Software Engineering graduate from Pakistan with an interest in building useful software, intelligent applications, and scalable web solutions.
+
+My background combines software development, AI/ML experimentation, and e-commerce development. I enjoy understanding how systems work, solving practical problems, and continuously expanding my technical skills.
+
+* **Software Development:** Building web applications and RESTful APIs.
+* **.NET Development:** C#, ASP.NET Core, Entity Framework Core, and SQL.
+* **Full-Stack Development:** React, Angular, Node.js, Express, and MongoDB.
+* **AI & Machine Learning:** Python, data analysis, model training, and predictive modeling.
+* **Shopify Development:** Custom Liquid, theme customization, storefront development, and e-commerce optimization.
+* **Beyond Code:** Exploring automation, AI-powered products, and software entrepreneurship.
+
+I'm interested in technology that solves real problems—not just writing code, but building systems that people can actually use.
+
+## Technical Skills
+
 <div align="center">
 
-**Open to full-stack, AI/ML, and Shopify development opportunities**
+### Languages
 
-*Building from Pakistan 🇵🇰*
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,express,vite,tailwind" />
+
+### Databases & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,tensorflow,sklearn" />
+
+### Platforms & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,vercel" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=120&section=footer" width="100%" />
+## Areas of Interest
+
+* Backend engineering and API development
+* Full-stack web application architecture
+* Artificial intelligence and machine learning
+* Data analysis and predictive modeling
+* E-commerce systems and Shopify customization
+* Workflow automation and intelligent software products
+
+## Connect With Me
+
+<div align="center">
+
+I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities to build meaningful technology.
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://mughal-66.github.io/PORTFOLIO/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman_Ali-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/usmanali66/)
+[![GitHub](https://img.shields.io/badge/GitHub-MUGHAL--66-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MUGHAL-66)
+[![Instagram](https://img.shields.io/badge/Instagram-ikhwan.dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/ikhwan.dev/)
+
+<br/>
+
+**Learning continuously. Building thoughtfully. Engineering for impact.**
+
+*Pakistan 🇵🇰*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:164E63,100:0891B2&height=110&section=footer" width="100%" />
