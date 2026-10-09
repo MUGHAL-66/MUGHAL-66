@@ -6,7 +6,7 @@
 
 Building software, APIs, and intelligent applications.
 
-[Portfolio](https://mughal-66.github.io/PORTFOLIO/) · [LinkedIn](https://www.linkedin.com/in/usmanali66/) · [GitHub](https://github.com/MUGHAL-66) · [Instagram](https://www.instagram.com/ikhwan.dev/)
+[Portfolio](https://mughal-66.github.io/PORTFOLIO/) / [LinkedIn](https://www.linkedin.com/in/usmanali66/) / [GitHub](https://github.com/MUGHAL-66)
 
 </div>
 
@@ -14,31 +14,47 @@ Building software, APIs, and intelligent applications.
 
 ### PROFILE
 
-Software Engineering graduate focused on building practical software solutions across backend engineering, full-stack development, and machine learning.
+Software Engineering graduate focused on backend engineering, full-stack development, and applied machine learning.
 
-I work with the .NET and JavaScript ecosystems, explore AI/ML with Python, and build customized e-commerce experiences with Shopify. My approach is centered on understanding the problem, writing maintainable code, and building systems that are useful beyond the demo.
+I work across the .NET and JavaScript ecosystems, explore AI/ML with Python, and develop customized e-commerce experiences with Shopify. I value clean architecture, maintainable code, and software that solves real problems.
 
-### CORE TECHNOLOGIES
+### TECHNOLOGY
 
-| AREA       | TECHNOLOGIES                                          |
-| :--------- | :---------------------------------------------------- |
-| Backend    | C# · ASP.NET Core · REST APIs · Entity Framework Core |
-| Frontend   | React · Angular · TypeScript · JavaScript             |
-| Database   | SQL · MongoDB · Firebase                              |
-| AI / ML    | Python · NumPy · Pandas · scikit-learn                |
-| E-Commerce | Shopify · Liquid · Theme Development                  |
-| Tools      | Git · GitHub · Postman · Visual Studio                |
+**Languages**
 
-### CURRENT DIRECTION
+<div align="left">
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css&theme=dark" height="38" alt="C sharp, Python, JavaScript, TypeScript, HTML and CSS" />
+</div>
 
-Exploring backend architecture, API development, applied machine learning, and AI-powered software products.
+**Frameworks & Development**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,react,angular,nodejs,express,tailwind&theme=dark" height="38" alt=".NET, React, Angular, Node.js, Express and Tailwind CSS" />
+</div>
+
+**Data & Machine Learning**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,tensorflow,sklearn&theme=dark" height="38" alt="MongoDB, MySQL, Firebase, SQLite, TensorFlow and scikit-learn" />
+</div>
+
+**Tools & Platforms**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,vercel&theme=dark" height="38" alt="Git, GitHub, VS Code, Visual Studio, Postman, Figma and Vercel" />
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" height="23" alt="Shopify" />
+</div>
+
+### FOCUS
+
+Backend architecture / API development / AI-powered applications / Machine learning / E-commerce systems
 
 ---
 
 <div align="left">
 
-**PAKISTAN**   /   **OPEN TO COLLABORATION**
+**PAKISTAN · OPEN TO COLLABORATION**
 
-[Get in touch on LinkedIn](https://www.linkedin.com/in/usmanali66/)
+[Connect on LinkedIn](https://www.linkedin.com/in/usmanali66/) · [Explore my portfolio](https://mughal-66.github.io/PORTFOLIO/)
 
 </div>
