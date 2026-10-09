@@ -6,7 +6,7 @@
 
 Building software, APIs, and intelligent applications.
 
-[Portfolio](https://mughal-66.github.io/PORTFOLIO/) / [LinkedIn](https://www.linkedin.com/in/usmanali66/) / [GitHub](https://github.com/MUGHAL-66)
+[Portfolio](https://usman-ali-portfolio-opal.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/usmanali66/) / [GitHub](https://github.com/MUGHAL-66)
 
 </div>
 
